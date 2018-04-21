@@ -1,4 +1,6 @@
 --recurse=yes
 --tag-relative=yes
+--languages=c,c++
+--exclude=*.py
 --exclude=*.git*
 --exclude=build
